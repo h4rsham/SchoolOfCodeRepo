@@ -1,1 +1,78 @@
-/* Copy and paste your CSS from CodePen into here */
+#main {
+  text-align: center;
+  }
+#img-div {
+  display: inline-block;
+  border: 10px solid #333;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #999;
+  }
+
+#profile-image {
+  display: block;
+  object-fit: cover;
+  height: 250px;
+  width: 250px;
+  margin: 0 auto;
+  }
+
+#liverpool-image {
+  object-fit: cover;
+  height: 240px;
+  width: 400px;
+  margin: 0 auto;
+  }
+
+#mma-image {
+  object-fit: cover;
+  height: 240px;
+  width: 400px;
+  margin: 0 auto;
+  }
+
+#snooker-image {
+  object-fit: cover;
+  height: 240px;
+  width: 400px;
+  margin: 0 auto;
+  }
+
+#bball-image {
+  object-fit: cover;
+  height: 240px;
+  width: 400px;
+  margin: 0 auto;
+  }
+
+#california-image {
+  object-fit: cover;
+  height: 240px;
+  width: 400px;
+  margin: 0 auto;
+  }
+
+#title {
+  font-family: rockwell;
+}
+
+#img-caption {
+  text-align: center;
+  font-family: arial;
+}
+
+#github-link {
+  text-align: center;
+}
+
+#main-paragraph{
+  font-family: calibri;
+  text-align: justify;
+}
+
+#second-paragraph{
+  font-family: calibri;
+}
+
+ul {
+  font-family: calibri;
+}
